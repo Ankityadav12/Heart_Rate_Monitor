@@ -18,16 +18,15 @@ But using a Heartbeat Sensor is a simpler approach to keep track of heart rate. 
 Chest straps, smart phones, wrist watches (smart watches), and other devices all have heartbeat sensors. The number of times the heart contracts or expands in a minute is expressed in terms of beats per minute, or bpm. 
 
 
-
 Components Required
-Arduino UNO x 1 
-16 x 2 LCD Display x 1 
-10KΩ Potentiometer 
-330Ω Resistor (Optional – for LCD backlight) 
-Push Button 
-Heartbeat Sensor Module with Probe (finger based) 
-Mini Breadboard 
-Connecting Wires 
+1. Arduino UNO x 1 
+2. 16 x 2 LCD Display x 1 
+3. 10KΩ Potentiometer 
+4. 330Ω Resistor (Optional – for LCD backlight) 
+5. Push Button 
+6. Heartbeat Sensor Module with Probe (finger based) 
+7. Mini Breadboard 
+8. Connecting Wires 
 
 
 Circuit Design of Interfacing Heartbeat Sensor with Arduino
